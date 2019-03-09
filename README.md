@@ -1,2 +1,2 @@
-# sample-menu-bar-navigation
+# simple-navbar
 a simple menubar
